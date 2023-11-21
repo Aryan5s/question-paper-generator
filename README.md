@@ -13,7 +13,7 @@ Assume the below requirement for a question paper:
 ```
 The problem statement here is that you need to generate a question paper of 100 marks total of which 20% (ie, 20 marks) worth of questions should have the: Difficulty=Easy, 50% having Difficulty=Medium and 30% having Difficulty=Hard
 
-## Running the Code Locally : (Ignore misc.data)
+## Running the Code Locally : (Ignore miscData.js)
 - Clone the Project :
 ```
 https://github.com/Aryan5s/question-paper-generator.git
